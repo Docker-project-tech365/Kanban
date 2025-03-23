@@ -30,5 +30,6 @@ services:
     depends_on:
       - kanban-app
 #Comment to make sure moving to organisation on github works.  
+# additional commment to make sure ssh works
 volumes:
   kanban-data:
